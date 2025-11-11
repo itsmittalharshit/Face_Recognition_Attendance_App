@@ -1,0 +1,6 @@
+Flask==3.0.0
+Flask-Cors==4.0.0
+face-recognition==1.3.0
+opencv-python==4.10.0.84
+numpy
+pickle-mixin
